@@ -1,0 +1,24 @@
+[
+    {
+        "operation": "shift",
+        "spec": {
+            "*": "data"
+        }
+    },
+    {
+        "operation": "default",
+        "spec": {
+            "success": true
+        }
+    },
+    {
+        "operation": "remove",
+        "spec": {
+            "data": {
+                "*": {
+                    "version": ""
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "operation": "shift",
+        "spec": {
+            "*": "data"
+        }
+    },
+    {
+        "operation": "default",
+        "spec": {
+            "success": true
+        }
+    }
+]

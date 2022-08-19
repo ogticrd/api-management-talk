@@ -1,0 +1,16 @@
+[
+    {
+        "operation": "shift",
+        "spec": {
+            "root": {
+                "row": "data"
+            }
+        }
+    },
+    {
+        "operation": "default",
+        "spec": {
+            "success": true
+        }
+    }
+]
